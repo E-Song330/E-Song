@@ -27,4 +27,4 @@ The analysis consisted of the following steps:
 You can check out the results in [presentation](https://github.com/E-Song330/E-Song/blob/aaa2fa750bcacd9d537b3bcde5bc96d8cad4e337/5.%20Presentation%20(with%20Dashboard).pdf) files.
 
 
-Let's take a look from the [first step](!!
+Let's take a look from the [first step](https://github.com/E-Song330/E-Song/blob/eba1bf50b5a4a7c94b06bf642b37594ae46afad7/1.%20Data%20collection.ipynb)!!
